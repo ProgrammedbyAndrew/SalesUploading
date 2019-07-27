@@ -1,0 +1,172 @@
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\EPOSNOW.dll.config
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\EPOSNOW.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\EPOSNOW.pdb
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\csc.exe
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\csc.exe.config
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\csc.rsp
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\csi.exe
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\csi.exe.config
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\csi.rsp
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.AppContext.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Console.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Compression.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Pipes.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.AccessControl.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Claims.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.ValueTuple.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XPath.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\vbc.exe
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\vbc.exe.config
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\vbc.rsp
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\VBCSCompiler.exe
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csprojAssemblyReference.cache
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csproj.CoreCompileInputs.cache
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csproj.CopyComplete
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.dll
+D:\Work\EPOSNOW\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.pdb
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\EPOSNOW.dll.config
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\EPOSNOW.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\EPOSNOW.pdb
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\csc.exe
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\csc.exe.config
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\csc.rsp
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\csi.exe
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\csi.exe.config
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\csi.rsp
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.AppContext.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Collections.Immutable.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Console.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Compression.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.FileSystem.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Pipes.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Reflection.Metadata.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.AccessControl.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Claims.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.ValueTuple.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XPath.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\vbc.exe
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\vbc.exe.config
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\vbc.rsp
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\VBCSCompiler.exe
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\roslyn\VBCSCompiler.exe.config
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csprojAssemblyReference.cache
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csproj.CoreCompileInputs.cache
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csproj.CopyComplete
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.pdb
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\Newtonsoft.Json.dll
+D:\Qasim Data\Projects\Meraki-IT\Fiver\Andrewstokas\Code\EPOSNOW\EPOSNOW\bin\Newtonsoft.Json.xml
+D:\EPOSNOW\EPOSNOW\bin\EPOSNOW.dll.config
+D:\EPOSNOW\EPOSNOW\bin\EPOSNOW.dll
+D:\EPOSNOW\EPOSNOW\bin\EPOSNOW.pdb
+D:\EPOSNOW\EPOSNOW\bin\roslyn\csc.exe
+D:\EPOSNOW\EPOSNOW\bin\roslyn\csc.exe.config
+D:\EPOSNOW\EPOSNOW\bin\roslyn\csc.rsp
+D:\EPOSNOW\EPOSNOW\bin\roslyn\csi.exe
+D:\EPOSNOW\EPOSNOW\bin\roslyn\csi.exe.config
+D:\EPOSNOW\EPOSNOW\bin\roslyn\csi.rsp
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EPOSNOW\EPOSNOW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.AppContext.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Collections.Immutable.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Console.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Compression.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.FileSystem.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.IO.Pipes.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Reflection.Metadata.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.AccessControl.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Claims.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.ValueTuple.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XPath.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EPOSNOW\EPOSNOW\bin\roslyn\vbc.exe
+D:\EPOSNOW\EPOSNOW\bin\roslyn\vbc.exe.config
+D:\EPOSNOW\EPOSNOW\bin\roslyn\vbc.rsp
+D:\EPOSNOW\EPOSNOW\bin\roslyn\VBCSCompiler.exe
+D:\EPOSNOW\EPOSNOW\bin\roslyn\VBCSCompiler.exe.config
+D:\EPOSNOW\EPOSNOW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EPOSNOW\EPOSNOW\bin\Newtonsoft.Json.dll
+D:\EPOSNOW\EPOSNOW\bin\Newtonsoft.Json.xml
+D:\EPOSNOW\EPOSNOW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csprojAssemblyReference.cache
+D:\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csproj.CoreCompileInputs.cache
+D:\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.csproj.CopyComplete
+D:\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.dll
+D:\EPOSNOW\EPOSNOW\obj\Debug\EPOSNOW.pdb
